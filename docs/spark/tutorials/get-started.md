@@ -23,7 +23,7 @@ In this tutorial, you learn how to:
 
 Before you begin, make sure you can run `dotnet`, `java`, `mvn`, `spark-shell` from your command line. If your environment is already prepared, you can skip to the next section. If you cannot run any or all of the commands, follow the steps below.
 
-1. Download and install the [.NET Core 2.1x SDK](https://dotnet.microsoft.com/download/dotnet-core/2.1). Installing the SDK adds the `dotnet` toolchain to your PATH. Use the PowerShell command `dotnet --version` to verify the installation.
+1. Download and install the [.NET Core 3.0x SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0). Installing the SDK adds the `dotnet` toolchain to your PATH. Use the PowerShell command `dotnet --version` to verify the installation.
 
 2. Install [Visual Studio 2017](https://www.visualstudio.com/downloads/) or [Visual Studio 2019](https://visualstudio.microsoft.com/vs/preview/) with the latest updates. You can use Community, Professional, or Enterprise. The Community version is free.
 
@@ -34,7 +34,7 @@ Before you begin, make sure you can run `dotnet`, `java`, `mvn`, `spark-shell` f
       * .NET Core cross-platform development
           * All required components
 
-3. Install [Java 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+3. Install [Java 8.1](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
     * Select the appropriate version for your operating system. For example, select **jdk-8u201-windows-x64.exe** for a Windows x64 machine.
     * Use the PowerShell command `java -version` to verify the installation.
